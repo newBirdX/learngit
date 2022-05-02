@@ -1,3 +1,3 @@
 看我看我
 嘿嘿，这是新添加的内容
-Git tracks changes.
+Git tracks changes of files.
